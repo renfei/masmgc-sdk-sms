@@ -2,7 +2,7 @@
 
 [![Latest Stable Version](https://img.shields.io/maven-central/v/net.renfei/masmgc-sdk-sms.svg?label=Maven%20Central)](https://central.sonatype.com/artifact/net.renfei/masmgc-sdk-sms)
 [![Coverage Status](https://coveralls.io/repos/github/renfei/masmgc-sdk-sms/badge.svg?branch=master)](https://coveralls.io/github/renfei/masmgc-sdk-sms?branch=master)
-[![codebeat badge](https://codebeat.co/badges/96f3b052-b686-4201-b36e-5931caa68462)](https://codebeat.co/projects/github-com-renfei-masmgc-sdk-sms-master)
+[![codebeat badge](https://codebeat.co/badges/eb446366-bd1d-4d87-b960-ce482890b636)](https://codebeat.co/projects/github-com-renfei-masmgc-sdk-sms-master)
 
 中国移动云MAS业务平台SDK精简版，我在使用官方提供的SDK包时，发现官方的SDK功能很多，也造成很臃肿，引入了很多第三方依赖，
 甚至造成与我本身项目相互冲突，而我只用到发短信的功能而已，并不会查询上行短信的收件箱，所以我进行了精简阉割。
